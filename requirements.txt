@@ -1,1 +1,8 @@
-pip install jupyter ipykernel
+streamlit
+pandas
+numpy
+matplotlib
+yfinance
+tensorflow
+scikit-learn
+
